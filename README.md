@@ -1,0 +1,1 @@
+I'm learning the concepts of neural networks and test some implementations.
